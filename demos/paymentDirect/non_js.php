@@ -65,7 +65,7 @@ $returnUrl .= 'payment.php';
     <input type="text" name="cardNumber" value="" />
     <div class="clear"></div>
 
-    <label for="cardExpirationDate">Expiration Date</label>
+    <label for="cardExpirationDate">Expiration Date (MMYY)</label>
     <input type="text" name="cardExpirationDate" value="" />
     <div class="clear"></div>
 
